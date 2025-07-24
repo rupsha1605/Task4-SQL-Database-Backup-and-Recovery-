@@ -102,3 +102,7 @@ Notes:
 - The .sql file can be reused to migrate or recover the database.
 
 - CLI users can optionally use mysqldump and mysql commands.
+---
+
+<img width="1881" height="1013" alt="Image" src="https://github.com/user-attachments/assets/40df67d9-5ec9-4b29-a272-c328f0ed2bca" />
+<img width="1877" height="1007" alt="Image" src="https://github.com/user-attachments/assets/8cd9fa99-b676-48b9-a99a-f6979f9613b1" />
