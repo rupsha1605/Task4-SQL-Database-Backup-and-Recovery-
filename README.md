@@ -78,7 +78,7 @@ Performed:
 
 ---
 
-# Exported SQL file from phpMyAdmin
+-Exported SQL file from phpMyAdmin
       
 ---
 
